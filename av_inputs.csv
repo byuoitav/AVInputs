@@ -1,0 +1,1102 @@
+Room Name,D1 Device,Available Ports in D1,Has SW1,Available Ports in SW1
+ASB-A203,SonyXBR,3,True,2
+ASB-A343,SonyXBR,1,False,0
+ASB-A379,SonyXBR,1,False,0
+ASB-A384,SonyXBR,2,False,0
+ASB-A4,Sony XBR No Audio,3,True,2
+ASB-B252,SonyXBR,1,False,0
+ASB-B340,SonyXBR,2,False,0
+ASB-B52,Sony VPL,0,False,0
+ASB-C301,Sony XBR No Audio,3,True,0
+ASB-C356,SonyXBR,2,False,0
+ASB-C373,SonyXBR,3,True,1
+ASB-C373T,SonyXBR,2,False,0
+ASB-C380,SonyXBR,1,False,0
+ASB-C40D,Sony VPL,0,False,0
+ASB-D148,SonyXBR,2,False,0
+ASB-D252,SonyXBR,2,False,0
+B66-120,Sony VPL,2,True,0
+B66-130,Sony VPL,2,True,0
+BNSN-C107,SonyXBR,0,False,0
+BNSN-C130,Sony XBR No Audio,3,True,1
+BNSN-C131,Sony XBR No Audio,3,True,1
+BNSN-C148,Sony XBR No Audio,3,True,1
+BNSN-C149,Sony XBR No Audio,3,True,1
+BNSN-C170,Sony XBR No Audio,3,True,1
+BNSN-C171,Sony XBR No Audio,3,True,1
+BNSN-C189,Sony XBR No Audio,3,True,1
+BNSN-C407,Sony VPL,2,True,0
+BNSN-E120,SonyXBR,0,False,0
+BNSN-W002,Sony PHZ10,1,False,0
+BNSN-W003,Sony PHZ10,1,False,0
+BNSN-W005,Sony VPL,2,True,0
+BNSN-W006,Sony VPL,2,True,0
+BNSN-W008,SonyXBR,1,False,0
+BNSN-W009,Sony PHZ10,2,True,1
+BNSN-W010,Sony PHZ10,2,True,0
+BNSN-W011,Sony Projector No Audio,2,True,0
+BNSN-W012,Sony VPL,2,True,0
+BNSN-W111,Sony Projector No Audio,2,True,3
+BNSN-W112,Sony Projector No Audio,2,True,1
+BNSN-W140,Sony Projector No Audio,2,True,3
+BNSN-W141,Sony VPL,2,True,0
+BNSN-W142,Sony Projector No Audio,2,True,0
+BRMB-220,Sony PHZ10,2,True,0
+BRMB-240,Sony VPL,2,True,2
+BRMB-250,Sony PHZ10,2,True,1
+BRMB-260,Sony VPL,2,True,0
+BRMB-264,Sony Projector No Audio,2,True,0
+BRMB-270,Sony VPL,2,True,0
+BRMB-370,SonyXBR,3,True,0
+BRMB-380,Sony VPL,2,True,0
+BRMB-382,Sony Projector No Audio,2,True,0
+BRWB-102,Sony VPL,1,False,0
+BRWB-111,SonyXBR,2,False,0
+BRWB-113,Sony VPL,0,False,0
+BRWB-115,Sony VPL,0,False,0
+BRWB-198,Sony Projector No Audio,2,True,0
+BRWB-220,Sony PHZ10,2,True,1
+BYUH-TEST,SonyXBR,2,False,0
+CB-110,Sony Projector No Audio,2,True,0
+CB-140,SonyXBR,2,False,0
+CB-187,Sony VPL,1,False,0
+CB-217,Epson Projector,2,True,2
+CB-230,Sony Projector No Audio,2,True,1
+CB-230XA,SonyXBR,1,False,0
+CB-230XB,SonyXBR,1,False,0
+CB-230XC,SonyXBR,1,False,0
+CB-230XD,SonyXBR,1,False,0
+CB-230XE,SonyXBR,1,False,0
+CB-230XF,SonyXBR,1,False,0
+CB-234,Sony VPL,2,False,0
+CB-245,Sony Projector No Audio,2,True,2
+CB-254,Sony Projector No Audio,2,True,2
+CB-256,Sony Projector No Audio,2,True,0
+CB-308,SonyXBR,2,False,0
+CB-350E,SonyXBR,0,False,0
+CB-368,SonyXBR,2,False,0
+CB-369,Sony PHZ10,2,True,0
+CB-376,Sony PHZ10,2,True,1
+CB-377,Sony Projector No Audio,2,True,0
+CB-381,Sony PHZ10,2,True,0
+CB-383,SonyXBR,3,True,0
+CB-384,Sony PHZ10,2,True,0
+CB-385,Sony VPL,0,False,0
+CB-392,Sony PHZ10,2,True,0
+CB-393,Sony VPL,2,True,0
+CB-396,SonyXBR,0,False,0
+CB-406,Sony Projector No Audio,2,True,0
+CB-413,Sony VPL,2,True,0
+CB-428,Sony VPL,2,True,1
+CB-430,Sony VPL,2,True,1
+CB-435,SonyXBR,2,False,0
+CB-439,SonyXBR,0,False,0
+CB-443,SonyXBR,0,False,0
+CB-447,SonyXBR,0,False,0
+CB-451,SonyXBR,0,False,0
+CB-460,Sony VPL,1,False,0
+CONF-1164,SonyXBR,1,False,0
+CONF-1172,SonyXBR,1,False,0
+CONF-1184,SonyXBR,1,False,0
+CONF-1187,SonyXBR,0,False,0
+CONF-1188,SonyXBR,0,False,0
+CONF-1189,SonyXBR,0,False,0
+CONF-2254,Sony Projector No Audio,1,True,0
+CONF-2258,Sony VPL,0,False,0
+CONF-2265,Sony Projector No Audio,1,True,1
+CONF-2267,Sony Projector No Audio,1,True,1
+CONF-2269,SonyXBR,0,False,0
+CONF-2277,SonyXBR,0,False,0
+CONF-2279,SonyXBR,0,False,0
+CONF-2285,SonyXBR,1,False,0
+CONF-2287,SonyXBR,1,False,0
+CONF-2295,Sony VPL,2,True,1
+CTB-145XA,Sony VPL,2,True,1
+CTB-145XB,SonyXBR,1,False,0
+CTB-145XC,SonyXBR,1,False,0
+CTB-214,Sony Projector No Audio,2,True,0
+CTB-240,Sony Projector No Audio,2,True,1
+CTB-245,Sony PHZ10,2,True,0
+CTB-250,Sony Projector No Audio,2,True,0
+CTB-255,SonyXBR,2,False,0
+CTB-315,SonyXBR,1,False,0
+CTB-325,SonyXBR,2,False,0
+CTB-340,Sony Projector No Audio,2,True,1
+CTB-345,Sony VPL,2,False,0
+CTB-350,Sony Projector No Audio,2,True,3
+CTB-370,SonyXBR,2,False,0
+CTB-375,Sony VPL,2,False,0
+CTB-380,Sony VPL,2,False,0
+CTB-380A,Sony VPL,1,False,0
+CTB-380B,SonyXBR,2,False,0
+CTB-385,Sony Projector No Audio,2,True,1
+CTB-410,Sony VPL,2,True,0
+CTB-431,Sony XBR No Audio,3,True,2
+CTB-435,Sony XBR No Audio,3,True,2
+CTB-435T,SonyXBR,2,False,0
+CTB-45,SonyXBR,1,False,0
+CTB-455D,SonyXBR,2,True,1
+CTB-45B,SonyXBR,0,False,0
+CTB-45C,SonyXBR,0,False,0
+EB-100,SonyXBR,2,False,0
+EB-107,SonyXBR,2,False,0
+EB-127,SonyXBR,2,False,0
+EB-128,SonyXBR,2,False,0
+EB-129,SonyXBR,2,False,0
+EB-140,SonyXBR,2,False,0
+EB-146A,SonyXBR,2,False,0
+EB-204,Sony VPL,2,True,0
+EB-207A,SonyXBR,2,False,0
+EB-207B,SonyXBR,2,False,0
+EB-221,Sony VPL,2,True,0
+EB-222,SonyXBR,2,False,0
+EB-223,Sony Projector No Audio,2,True,1
+EB-224,SonyXBR,2,False,0
+EB-228,SonyXBR,2,False,0
+EB-230A,SonyXBR,2,False,0
+EB-240J,SonyXBR,0,False,0
+EB-246A,SonyXBR,2,False,0
+EB-250,SonyXBR,2,True,2
+EB-302,SonyXBR,0,False,0
+EB-304A,SonyXBR,1,False,0
+EB-304B,SonyXBR,2,False,0
+EB-304C,SonyXBR,2,False,0
+EB-305,SonyXBR,2,False,0
+EB-307,SonyXBR,2,False,0
+EB-309,SonyXBR,2,False,0
+EB-312,SonyXBR,2,False,0
+EB-312A,SonyXBR,2,False,0
+EB-321,Sony VPL,2,False,0
+EB-325,Sony VPL,2,False,0
+EB-330E,SonyXBR,1,False,0
+EB-330R,SonyXBR,2,False,0
+EB-336,SonyXBR,1,False,0
+EB-342XA,SonyXBR,0,False,0
+EB-342XB,SonyXBR,2,False,0
+EB-342XC,SonyXBR,2,False,0
+EB-342XD,SonyXBR,2,False,0
+EB-342XE,SonyXBR,2,False,0
+EB-346,SonyXBR,2,False,0
+EB-360A,SonyXBR,2,False,0
+EB-402,SonyXBR,0,False,0
+EB-404,Sony VPL,2,True,0
+EB-405,SonyXBR,2,False,0
+EB-406A,SonyXBR,1,False,0
+EB-406B,SonyXBR,2,False,0
+EB-407,SonyXBR,2,False,0
+EB-408,SonyXBR,1,False,0
+EB-409,SonyXBR,2,False,0
+EB-423,Sony VPL,0,False,0
+EB-425,Sony Projector No Audio,2,True,2
+EB-429,SonyXBR,2,False,0
+EB-430R,SonyXBR,2,False,0
+EB-436,SonyXBR,1,False,0
+EB-438,SonyXBR,3,True,0
+EB-446,SonyXBR,2,False,0
+EB-460A,SonyXBR,2,False,0
+EB-B106,SonyXBR,2,False,0
+EB-B136,SonyXBR,2,False,0
+ENSN-707,Sony VPL,2,False,0
+ERL-210,SonyXBR,3,False,0
+ESC-C153,Sony VPL,2,True,0
+ESC-C215,Sony VPL,2,True,0
+ESC-C247,Sony VPL,2,True,0
+ESC-C254,Sony PHZ10,2,True,0
+ESC-C255,Sony Projector No Audio,2,True,0
+ESC-C258,Sony Projector No Audio,2,True,1
+ESC-C261,Sony PHZ10,2,True,0
+ESC-C266,Sony PHZ10,2,True,0
+ESC-C285,Sony PHZ10,2,True,0
+ESC-C295,Sony Projector No Audio,2,True,1
+ESC-C381,Sony XBR No Audio,3,True,2
+ESC-C396,Sony VPL,1,False,0
+ESC-C435,Sony VPL,1,False,0
+ESC-C460,Sony VPL,2,True,0
+ESC-C465,Sony Projector No Audio,2,True,0
+ESC-N127,Sony VPL,2,True,0
+ESC-N131,Sony PHZ10,2,True,0
+ESC-N181D,SonyXBR,1,True,0
+ESC-N209,SonyXBR,2,False,0
+ESC-N212,Sony Projector No Audio,2,True,0
+ESC-N288,Sony PHZ10,2,True,0
+ESC-N309,SonyXBR,1,False,0
+ESC-N485,SonyXBR,2,False,0
+ESC-S134,SonyXBR,1,False,0
+ESC-S145,SonyXBR,1,False,0
+ESC-S228,SonyXBR,3,True,0
+ESC-S232,Sony PHZ10,2,True,1
+ESC-S288,SonyXBR,1,False,0
+HBLL-1060,pjlink-projector,2,True,0
+HBLL-1129,SonyXBR,0,False,0
+HBLL-1131,Sony Projector No Audio,2,True,0
+HBLL-1213,SonyXBR,1,False,0
+HBLL-1214,SonyXBR,1,False,0
+HBLL-1215,SonyXBR,1,False,0
+HBLL-1216,SonyXBR,1,False,0
+HBLL-2070,SonyXBR,0,False,0
+HBLL-2103,SonyXBR,1,False,0
+HBLL-2104,SonyXBR,1,False,0
+HBLL-2202,SonyXBR,2,False,0
+HBLL-2212,Sony VPL,2,True,0
+HBLL-2218F,Sony VPL,1,False,0
+HBLL-2231,Sony VPL,2,True,0
+HBLL-2232,Sony Projector No Audio,2,True,2
+HBLL-2233,Sony VPL,2,True,0
+HBLL-2234,Sony VPL,2,True,0
+HBLL-2238,SonyXBR,0,False,0
+HBLL-2240,Sony Projector No Audio,2,True,0
+HBLL-2242,SonyXBR,1,False,0
+HBLL-2711,SonyXBR,1,False,0
+HBLL-2714,SonyXBR,1,False,0
+HBLL-2720G,SonyXBR,2,False,0
+HBLL-2720H,SonyXBR,2,False,0
+HBLL-2740,Sony Projector No Audio,2,False,0
+HBLL-3340B,SonyXBR,2,False,0
+HBLL-3410XA,SonyXBR,0,False,0
+HBLL-3410XB,SonyXBR,0,False,0
+HBLL-3710,Sony VPL,2,True,0
+HBLL-3712,Sony PHZ10,2,True,0
+HBLL-3714,Sony Projector No Audio,1,True,0
+HBLL-3718,Sony Projector No Audio,2,True,1
+HBLL-3760D,Sony Projector No Audio,2,True,1
+HBLL-3770A,SonyXBR,2,True,0
+HBLL-3815,SonyXBR,0,False,0
+HBLL-4360,SonyXBR,1,False,0
+HBLL-4361,SonyXBR,1,False,0
+HBLL-4362,SonyXBR,1,False,0
+HBLL-4363,SonyXBR,2,False,0
+HBLL-4507,SonyXBR,0,False,0
+HBLL-4722,SonyXBR,3,False,0
+HBLL-4722A,SonyXBR,1,False,0
+HBLL-4722B,SonyXBR,1,False,0
+HBLL-4826,SonyXBR,2,False,0
+HBLL-5438,SonyXBR,1,False,0
+HBLL-5444,SonyXBR,1,False,0
+HBLL-5453,SonyXBR,1,False,0
+HBLL-5723,SonyXBR,0,False,0
+HBLL-5724,SonyXBR,0,False,0
+HBLL-5725,SonyXBR,1,False,0
+HBLL-6525,Sony Projector No Audio,2,True,0
+HC-102,SonyXBR,2,True,0
+HC-103,Sony VPL,1,True,2
+HC-130,Epson Projector No Audio,2,True,1
+HC-142,Epson Projector No Audio,2,True,1
+HC-217,Sony VPL,1,True,0
+HC-221,Sony VPL,1,True,0
+HC-229,SonyXBR,2,False,0
+HC-247,SonyXBR,3,False,0
+HC-298,SonyXBR,3,False,0
+HC-318,Sony XBR No Audio,3,True,1
+HC-327,SonyXBR,2,False,0
+HC-378,SonyXBR,2,False,0
+HC-B20,Sony Projector No Audio,2,True,0
+HC-B22,Sony Projector No Audio,2,True,0
+HCEB-102B,SonyXBR,3,False,0
+HCEB-102C,SonyXBR,3,False,0
+HCEB-102D,SonyXBR,2,False,0
+HCEB-102H,SonyXBR,3,False,0
+HCEB-107,SonyXBR,2,False,0
+HCEB-118,SonyXBR,1,False,0
+HCEB-123A,SonyXBR,3,False,0
+HCEB-202,SonyXBR,1,False,0
+HCEB-204C,SonyXBR,1,False,0
+HCEB-205,SonyXBR,3,False,0
+HCEB-217,SonyXBR,1,False,0
+HCEB-241,SonyXBR,2,False,0
+HCEB-243,SonyXBR,1,False,0
+HCEB-249,SonyXBR,1,False,0
+HCEB-255,SonyXBR,1,False,0
+HCEB-256,SonyXBR,2,False,0
+HCEB-303A,SonyXBR,1,False,0
+HCEB-303E,SonyXBR,2,False,0
+HCEB-303F,SonyXBR,3,False,0
+HCEB-309A,SonyXBR,3,False,0
+HCEB-309B,SonyXBR,2,False,0
+HCEB-311,SonyXBR,1,False,0
+HCEB-321A,SonyXBR,3,False,0
+HCEB-321B,SonyXBR,3,False,0
+HCEB-321C,SonyXBR,3,False,0
+HCEB-321D,SonyXBR,3,False,0
+HCEB-321E,SonyXBR,3,False,0
+HCEB-325,SonyXBR,2,False,0
+HCEB-327,SonyXBR,1,False,0
+HCEB-329,SonyXBR,3,False,0
+HCEB-341,SonyXBR,1,False,0
+HCEB-357,SonyXBR,1,False,0
+HCEB-358,SonyXBR,1,False,0
+HCEB-359,SonyXBR,3,False,0
+HCEB-401,SonyXBR,3,False,0
+HCEB-409,SonyXBR,2,False,0
+HCEB-413B,SonyXBR,2,False,0
+HCEB-415,SonyXBR,3,False,0
+HCEB-417,SonyXBR,3,False,0
+HCEB-419G,SonyXBR,1,False,0
+HCEB-429,SonyXBR,2,False,0
+HCEB-442,SonyXBR,3,False,0
+HCEB-457,SonyXBR,3,False,0
+HCEB-458,SonyXBR,1,False,0
+HCEB-B111,SonyXBR,3,False,0
+HCEB-BALLRM,Sony VPL,2,True,0
+HGB-115,Sony VPL,1,False,0
+HRCB-116,Sony VPL,2,True,0
+HRCB-117,Sony VPL,1,True,0
+HRCB-122,Sony VPL,1,True,0
+HRCB-123,Sony PHZ10,1,True,0
+HRCB-125,Sony VPL,0,False,0
+HRCB-150,Sony VPL,1,True,0
+HRCB-151,Sony VPL,2,True,0
+HRCB-154,Sony Projector No Audio,2,True,2
+HRCB-238,Sony Projector No Audio,2,True,0
+HRCB-257,Sony PHZ10,1,True,0
+HRCB-273,SonyXBR,1,False,0
+ITB-1004,Sony PHZ10,2,True,2
+ITB-1006,Sony PHZ10,0,False,0
+ITB-1010,Sony VPL,2,False,0
+ITB-1020,SonyXBR,0,False,0
+ITB-1101,Sony VPL,2,True,1
+ITB-1101XA,SonyXBR,3,True,1
+ITB-1101XB,SonyXBR,3,True,1
+ITB-1101XC,SonyXBR,3,True,1
+ITB-1101XD,SonyXBR,3,True,1
+ITB-1102,SonyXBR,0,False,0
+ITB-1105,Sony Projector No Audio,2,True,0
+ITB-1105B,Sony Projector No Audio,2,True,0
+ITB-1106,Sony Projector No Audio,2,True,0
+ITB-1106AB,Sony Projector No Audio,2,True,0
+ITB-1106B,Sony Projector No Audio,2,True,0
+ITB-1108A,SonyXBR,3,False,0
+ITB-1108B,SonyXBR,3,False,0
+ITB-1108C,SonyXBR,3,False,0
+ITB-1110,SonyXBR,0,False,0
+ITB-1111,SonyXBR,1,False,0
+ITB-1112,SonyXBR,2,False,0
+ITB-1208,Sony VPL,1,False,0
+ITB-1216,SonyXBR,2,False,0
+ITB-2019,Sony Projector No Audio,2,True,0
+ITB-2031,SonyXBR,2,False,0
+ITB-2033,SonyXBR,2,False,0
+ITB-2205,SonyXBR,1,False,0
+ITB-2216,SonyXBR,1,False,0
+ITB-2220,SonyXBR,1,False,0
+ITB-2220A,SonyXBR,2,False,0
+ITB-2222,SonyXBR,1,False,0
+ITB-3006,Sony Projector No Audio,2,True,2
+ITB-3010,SonyXBR,1,False,0
+ITB-3012,SonyXBR,1,False,0
+ITB-3016,SonyXBR,0,False,0
+ITB-3018,SonyXBR,2,False,0
+ITB-3020,SonyXBR,0,False,0
+ITB-3022,SonyXBR,1,False,0
+ITB-3024,SonyXBR,2,False,0
+ITB-3203,SonyXBR,3,False,0
+ITB-3213,SonyXBR,2,False,0
+ITB-3302,SonyXBR,2,False,0
+ITB-3304A,SonyXBR,1,False,0
+ITB-3306,SonyXBR,1,False,0
+ITB-3308,Sony VPL,1,True,0
+ITB-3310,Sony VPL,1,True,0
+ITB-JAKE,SonyXBR,3,True,1
+ITB-JJAKE,SonyXBR,3,False,0
+ITB-TERRY,SonyXBR,0,False,0
+ITB-TEST,SonyXBR,0,False,0
+ITB-ZEN,SonyXBR,2,False,0
+JFSB-1031,Sony VPL,0,False,0
+JFSB-1041S,SonyXBR,3,False,0
+JFSB-1063G,SonyXBR,1,False,0
+JFSB-1081,Sony VPL,2,True,0
+JFSB-1131A,SonyXBR,2,False,0
+JFSB-1131B,SonyXBR,2,False,0
+JFSB-1131C,SonyXBR,2,False,0
+JFSB-1141,SonyXBR,2,False,0
+JFSB-1141A,SonyXBR,2,False,0
+JFSB-1141B,SonyXBR,2,False,0
+JFSB-1141C,SonyXBR,2,False,0
+JFSB-1141D,SonyXBR,2,False,0
+JFSB-1141E,SonyXBR,2,False,0
+JFSB-1161,Sony XBR No Audio,3,True,1
+JFSB-2002,Sony Projector No Audio,2,True,0
+JFSB-2060,SonyXBR,1,False,0
+JFSB-2068,Sony VPL,2,True,1
+JFSB-2110,Sony Projector No Audio,2,True,0
+JFSB-2114,Sony VPL,0,False,0
+JFSB-2198,Sony Projector No Audio,2,True,0
+JFSB-3002,Sony Projector No Audio,2,True,0
+JFSB-3068,Sony Projector No Audio,2,True,0
+JFSB-3082,Sony PHZ10,2,True,0
+JFSB-3116,Sony PHZ10,2,True,0
+JFSB-3132,Sony PHZ10,2,True,0
+JFSB-3198,Sony PHZ10,2,True,0
+JFSB-4010,Sony VPL,2,True,0
+JFSB-4068,Sony PHZ10,2,True,0
+JFSB-4082,Sony PHZ10,2,True,0
+JFSB-4116,Sony PHZ10,2,True,0
+JFSB-4138B,SonyXBR,1,False,0
+JFSB-4188,Sony VPL,2,False,0
+JFSB-B002,Sony Projector No Audio,2,True,2
+JFSB-B003A,Sony VPL,2,False,0
+JFSB-B013,Sony Projector No Audio,2,False,0
+JFSB-B030,Sony Projector No Audio,2,True,0
+JFSB-B032,Sony Projector No Audio,2,True,0
+JFSB-B037,Sony Projector No Audio,2,True,1
+JFSB-B040,Sony VPL,2,True,0
+JFSB-B042,Sony VPL,2,True,0
+JFSB-B043,SonyXBR,3,False,0
+JFSB-B050,Sony VPL,2,True,0
+JFSB-B053,SonyXBR,3,False,0
+JFSB-B060,Sony Projector No Audio,2,True,0
+JFSB-B061,Sony XBR No Audio,3,False,0
+JFSB-B062,Sony Projector No Audio,2,True,0
+JFSB-B071,Sony XBR No Audio,3,False,0
+JFSB-B092,Sony Projector No Audio,2,True,2
+JFSB-B094,Sony Projector No Audio,2,True,0
+JFSB-B099,Sony Projector No Audio,2,True,0
+JFSB-B101,Sony Projector No Audio,2,True,0
+JFSB-B103,Sony Projector No Audio,2,True,0
+JFSB-B104,Sony Projector No Audio,2,True,0
+JFSB-B105,Sony VPL,2,True,1
+JFSB-B106,Sony PHZ10,2,True,0
+JFSB-B112,Sony VPL,2,True,1
+JFSB-B114,Sony VPL,2,True,1
+JFSB-B132,Sony PHZ10,2,True,0
+JFSB-B135,Sony Projector No Audio,2,True,0
+JFSB-B137,Sony Projector No Audio,2,True,2
+JFSB-B140,Sony Projector No Audio,2,True,0
+JFSB-B142,Sony VPL,2,True,0
+JFSB-B150,Sony Projector No Audio,2,True,0
+JFSB-B152,Sony Projector No Audio,2,True,0
+JFSB-B160,Sony XBR No Audio,3,True,2
+JFSB-B161,SonyXBR,1,False,0
+JFSB-B164,Sony XBR No Audio,3,True,0
+JFSB-B181,Sony Projector No Audio,2,False,0
+JFSB-B190,Sony Projector No Audio,2,True,2
+JFSB-B192,Sony Projector No Audio,2,True,1
+JKB-1001A,SonyXBR,3,True,1
+JKB-1001B,Sony PHZ10,2,True,1
+JKB-1001C,SonyXBR,3,True,1
+JKB-1002,Sony PHZ10,2,True,0
+JKB-1004,Sony PHZ10,2,True,0
+JKB-1005,Sony Projector No Audio,2,True,0
+JKB-1006,Sony VPL,2,True,0
+JKB-1008,Sony Projector No Audio,2,True,0
+JKB-1010,Sony PHZ10,2,True,0
+JKB-1011,SonyXBR,3,False,0
+JKB-1012,Sony VPL,2,True,0
+JKB-1013,Sony PHZ10,2,True,0
+JKB-1018,Sony VPL,2,True,0
+JKB-1020,Sony PHZ10,2,True,0
+JKB-1101,Sony PHZ10,2,True,0
+JKB-1102,Sony Projector No Audio,2,True,0
+JKB-1103,Sony PHZ10,2,True,0
+JKB-1104,Sony Projector No Audio,2,True,0
+JKB-1105,Sony VPL,2,True,0
+JKB-1106,SonyXBR,3,True,1
+JKB-1107,Sony PHZ10,2,True,0
+JKB-1108,Sony Projector No Audio,2,True,0
+JKB-1110,Sony PHZ10,2,True,1
+JKB-1114,Sony VPL,2,True,1
+JKB-1115,Sony VPL,2,True,0
+JKB-1116,Sony VPL,2,True,1
+JKB-1117,Sony VPL,2,True,0
+JKB-1119,SonyXBR,3,True,0
+JKB-1120,Sony VPL,2,True,1
+JKB-1121,Sony PHZ10,2,True,1
+JKB-1122,Sony XBR No Audio,3,True,3
+JKB-1123,Sony PHZ10,2,True,1
+JKB-1125,SonyXBR,3,True,0
+JKB-1126,Sony VPL,2,True,0
+JKB-1127,Sony VPL,2,True,0
+JKB-1129,Sony PHZ10,2,True,1
+JKB-2001A,Sony VPL,2,True,3
+JKB-2001K,SonyXBR,2,False,0
+JKB-2002,SonyXBR,0,False,0
+JKB-2004,Sony VPL,2,True,0
+JKB-2004C,SonyXBR,1,False,0
+JKB-2009,Sony PHZ10,2,True,0
+JKB-2011,Sony PHZ10,2,True,0
+JKB-2018,SonyXBR,0,False,0
+JKB-2104,Sony Projector No Audio,2,True,0
+JKB-2105,Sony Projector No Audio,2,True,0
+JKB-2107,Sony Projector No Audio,2,True,0
+JKB-2110,Sony Projector No Audio,2,True,0
+JKB-2111,Sony Projector No Audio,2,True,0
+JKB-2112,Sony PHZ10,2,True,0
+JKB-2113,Sony Projector No Audio,2,True,0
+JKB-2114,Sony VPL,2,True,0
+JKB-2119,SonyXBR,1,False,0
+JKB-3012,Sony VPL,2,True,0
+JKB-3016,Sony VPL,2,True,0
+JKB-3024,Sony VPL,2,True,0
+JKB-3104,Sony Projector No Audio,2,True,3
+JKB-3106,Sony Projector No Audio,2,True,0
+JKB-3108,Sony Projector No Audio,2,True,1
+JKB-3109,Sony VPL,2,True,0
+JKB-3112,Sony Projector No Audio,2,True,0
+JKB-3113,Sony VPL,1,False,0
+JKB-3115,Sony VPL,2,True,0
+JKB-3122B,SonyXBR,0,False,0
+JKB-4035,Sony PHZ10,2,True,0
+JKB-4037,SonyXBR,0,False,0
+JKB-4051,Sony VPL,2,True,0
+JKB-4057,Sony VPL,2,True,0
+JRCB-205,Sony Projector No Audio,2,True,0
+JRCB-206,Sony Projector No Audio,2,True,0
+JRCB-208,Sony Projector No Audio,2,True,0
+JRCB-260G,SonyXBR,1,False,0
+JRCB-267,Sony VPL,2,False,0
+JRCB-271,Sony Projector No Audio,2,False,0
+JRCB-274A,SonyXBR,2,False,0
+JRCB-274B,SonyXBR,2,False,0
+JRCB-274D,SonyXBR,2,False,0
+JRCB-274F,SonyXBR,2,False,0
+JRCB-274H,SonyXBR,2,False,0
+JRCB-275,Sony Projector No Audio,2,True,2
+JRCB-276XA,Sony VPL,1,False,0
+JRCB-276XB,Sony XBR No Audio,3,True,2
+JRCB-296,Sony Projector No Audio,2,True,0
+JRCB-303,Sony VPL,2,True,0
+JRCB-306,Sony Projector No Audio,2,True,2
+JRCB-314,Sony PHZ10,2,True,0
+JRCB-320,Sony XBR No Audio,3,True,1
+JRCB-343,Sony VPL,1,False,0
+JRCB-364B,SonyXBR,2,False,0
+JRCB-375A,SonyXBR,2,False,0
+JRCB-380B,SonyXBR,2,False,0
+JRCB-380C,SonyXBR,2,False,0
+JRCB-380D,SonyXBR,2,False,0
+JRCB-380E,SonyXBR,2,False,0
+JRCB-380F,SonyXBR,2,False,0
+JRCB-380G,SonyXBR,2,False,0
+JRCB-380H,SonyXBR,2,False,0
+JRCB-388,SonyXBR,2,False,0
+JRCB-452,SonyXBR,2,False,0
+JRCB-459B,Sony XBR No Audio,3,False,0
+JRCB-472,Sony VPL,2,True,0
+JRCB-482,SonyXBR,3,False,0
+JSB-103,Sony Projector No Audio,2,True,1
+JSB-106,Sony Projector No Audio,2,True,0
+JSB-110,Sony Projector No Audio,2,True,0
+JSB-114,Sony VPL,2,True,0
+JSB-164,Sony PHZ10,2,True,0
+JSB-170,Sony Projector No Audio,2,True,0
+JSB-171,Sony VPL,2,True,0
+JSB-174,Sony Projector No Audio,2,True,0
+JSB-175,Sony Projector No Audio,2,True,0
+JSB-178,Sony Projector No Audio,2,True,0
+JSB-179,Sony VPL,2,True,0
+JSB-182,Sony Projector No Audio,2,True,0
+JSB-202,Sony Projector No Audio,2,True,0
+JSB-203,Sony PHZ10,2,True,0
+JSB-213,Sony PHZ10,2,True,2
+JSB-382,Sony Projector No Audio,2,True,0
+KMBL-102,Sony Projector No Audio,2,True,0
+KMBL-103,Sony PHZ10,2,False,0
+KMBL-1043,Sony Projector No Audio,2,True,4
+KMBL-105,Sony VPL,0,False,0
+KMBL-109,SonyXBR,3,False,0
+KMBL-112,Sony VPL,2,True,0
+KMBL-1142,SonyXBR,0,False,0
+KMBL-1150,SonyXBR,3,True,0
+KMBL-1151,SonyXBR,3,False,0
+KMBL-1153,SonyXBR,3,False,0
+KMBL-1190C,SonyXBR,2,False,0
+KMBL-130A,SonyXBR,0,False,0
+KMBL-130B,SonyXBR,0,False,0
+KMBL-133,SonyXBR,1,False,0
+KMBL-137,SonyXBR,0,False,0
+KMBL-149,SonyXBR,0,False,0
+KMBL-154,SonyXBR,3,True,0
+KMBL-155,SonyXBR,0,False,0
+KMBL-156,SonyXBR,0,False,0
+KMBL-157,SonyXBR,3,True,1
+KMBL-230,Sony Projector No Audio,2,True,1
+KMBL-235,Sony PHZ10,2,True,0
+KMBL-240,Sony Projector No Audio,2,True,1
+KMBL-245,Sony Projector No Audio,2,True,0
+KMBL-250,pjlink-projector,2,True,0
+KMBL-250XA,Fake Display,0,True,0
+KMBL-262,Sony Projector No Audio,2,True,0
+KMBL-270,Sony Projector No Audio,2,True,0
+KMBL-280,Sony Projector No Audio,2,True,0
+KMBL-285,Sony PHZ10,2,True,0
+KMBL-460,Sony PHZ10,2,True,0
+KMBL-462,Sony VPL,2,True,0
+KMBL-490,Sony PHZ10,2,False,0
+KMBL-500C,Sony Projector No Audio,2,True,0
+KMBL-620,Sony Projector No Audio,2,True,0
+KMBL-640,Sony VPL,2,False,0
+KMBL-660,Sony Projector No Audio,2,True,0
+KMBL-680,SonyXBR,3,True,0
+KMBL-793,Sony Projector No Audio,2,True,0
+KMBL-893,SonyXBR,0,False,0
+KMBL-948,Sony Projector No Audio,2,True,0
+KMBL-990P,SonyXBR,0,False,0
+LSB-2006,Sony Projector No Audio,2,False,0
+LSB-2015XA,Sony PHZ10,2,True,0
+LSB-2015XB,SonyXBR,2,False,0
+LSB-2017XA,Sony PHZ10,2,True,0
+LSB-2017XB,SonyXBR,2,False,0
+LSB-2018,Sony PHZ10,2,True,1
+LSB-2019XA,Sony VPL,2,True,1
+LSB-2019XB,SonyXBR,2,False,0
+LSB-2021XA,Sony PHZ10,2,True,0
+LSB-2021XB,SonyXBR,2,False,0
+LSB-2022,Sony Projector No Audio,2,True,2
+LSB-2037,Sony Projector No Audio,2,True,2
+LSB-2038,Sony Projector No Audio,2,True,1
+LSB-2039,Sony Projector No Audio,2,True,2
+LSB-2040,Sony PHZ10,2,True,0
+LSB-2043,Sony Projector No Audio,2,True,3
+LSB-2044XA,Sony PHZ10,2,True,1
+LSB-2044XB,SonyXBR,2,False,0
+LSB-2044XC,SonyXBR,2,False,0
+LSB-2044XD,SonyXBR,2,False,0
+LSB-2057,Sony PHZ10,2,True,0
+LSB-2058A,SonyXBR,2,False,0
+LSB-2058B,SonyXBR,2,False,0
+LSB-2058C,SonyXBR,2,False,0
+LSB-2061,Sony PHZ10,2,True,0
+LSB-2102,Sony Projector No Audio,2,True,1
+LSB-2110,SonyXBR,0,False,0
+LSB-2111,Sony PHZ10,2,True,1
+LSB-2113,Sony PHZ10,2,True,1
+LSB-2118,Sony PHZ10,2,True,1
+LSB-2129,Sony PHZ10,2,True,1
+LSB-2130,Sony VPL,2,True,0
+LSB-2133,Sony PHZ10,2,True,1
+LSB-2142,Sony Projector No Audio,2,True,1
+LSB-2143,Sony VPL,2,True,0
+LSB-2144,Sony Projector No Audio,2,True,1
+LSB-2145,Sony VPL,2,True,0
+LSB-2146,Sony PHZ10,2,True,1
+LSB-3031,Sony Projector No Audio,2,True,0
+LSB-3117,SonyXBR,2,False,0
+LSB-3119,SonyXBR,1,False,0
+LSB-4014,Sony VPL,2,True,0
+LSB-4020B,SonyXBR,2,False,0
+LSB-4133,SonyXBR,2,False,0
+LSB-4135,SonyXBR,1,False,0
+LSB-4138A,SonyXBR,2,False,0
+LSB-5001,SonyXBR,3,True,0
+LSB-5015,Sony VPL,2,True,0
+LSB-5139,SonyXBR,2,False,0
+LSB-5141,SonyXBR,1,False,0
+LSGH-114,SonyXBR,1,False,0
+LVES-W301,Sony Projector No Audio,2,True,0
+MARB-108,Sony Projector No Audio,2,True,0
+MARB-109,Sony VPL,2,True,0
+MARB-120,Sony Projector No Audio,2,True,0
+MARB-121,Sony Projector No Audio,2,True,0
+MARB-122,Sony Projector No Audio,2,True,0
+MARB-123,Sony Projector No Audio,2,True,0
+MARB-126,Sony Projector No Audio,2,True,0
+MARB-127,Sony Projector No Audio,2,True,0
+MARB-128,Sony Projector No Audio,2,True,0
+MARB-129,Sony Projector No Audio,2,True,0
+MARB-130,Sony Projector No Audio,2,True,0
+MARB-131,Sony Projector No Audio,2,True,0
+MARB-206,Sony Projector No Audio,2,True,0
+MARB-207,Sony Projector No Audio,2,True,0
+MARB-221,Sony Projector No Audio,2,True,0
+MARB-222,Sony Projector No Audio,2,True,0
+MARB-B105,Sony Projector No Audio,2,True,0
+MARB-B106,Sony Projector No Audio,2,True,1
+MARB-B107,Sony Projector No Audio,2,True,0
+MARB-B112,Sony Projector No Audio,2,True,0
+MARB-B113,Sony Projector No Audio,2,True,0
+MARB-B114,Sony Projector No Audio,2,True,0
+MARB-B119,Sony Projector No Audio,2,True,0
+MARB-B124,Sony Projector No Audio,2,True,0
+MB-1011,Sony PHZ10,2,True,2
+MB-1111,Sony Projector No Audio,2,False,0
+MB-1151,Sony PHZ10,2,True,2
+MB-1215,Sony PHZ10,2,True,2
+MB-1233,Sony PHZ10,2,True,2
+MB-2137,Sony PHZ10,2,True,2
+MB-2207,Sony PHZ10,2,True,2
+MB-2217,SonyXBR,0,False,0
+MB-2221,Sony PHZ10,2,True,2
+MB-2231,Sony PHZ10,2,True,2
+MB-3039,Sony PHZ10,2,True,2
+MB-3041,Sony PHZ10,2,True,2
+MB-3213,SonyXBR,0,False,0
+MB-3223,Sony PHZ10,2,True,2
+MB-4041,Sony PHZ10,2,True,2
+MB-4246,Sony PHZ10,2,True,2
+MCDB-120,SonyXBR,0,False,0
+MCDB-147,SonyXBR,2,False,0
+MCDB-206,SonyXBR,2,False,0
+MCKB-115,Sony Projector No Audio,2,True,1
+MCKB-150,SonyXBR,3,True,0
+MCKB-166,Sony VPL,2,True,0
+MCKB-168,SonyXBR,3,True,0
+MCKB-185,Sony XBR No Audio,3,False,0
+MCKB-188,SonyXBR,0,False,0
+MCKB-220,SonyXBR,3,True,0
+MCKB-221,SonyXBR,2,True,0
+MCKB-238,Sony Projector No Audio,2,True,0
+MCKB-26,SonyXBR,1,False,0
+MCKB-267,SonyXBR,1,False,0
+MCKB-270,SonyXBR,1,False,0
+MCKB-276,SonyXBR,3,True,0
+MCKB-277,SonyXBR,1,False,0
+MCKB-280,SonyXBR,1,False,0
+MCKB-283,Sony VPL,2,True,0
+MCKB-305,SonyXBR,0,False,0
+MCKB-307,SonyXBR,0,False,0
+MCKB-319,SonyXBR,1,False,0
+MCKB-331,SonyXBR,1,False,0
+MCKB-341,Sony VPL,1,False,0
+MCKB-343,Sony VPL,2,True,0
+MCKB-355,Sony Projector No Audio,2,True,0
+MLBM-1007,Sony Projector No Audio,2,True,0
+MLBM-1104,Sony VPL,2,True,0
+MLBM-2002,Sony PHZ10,2,True,0
+MLBM-2015,Sony Projector No Audio,2,True,1
+MOA-260,Sony Projector No Audio,2,True,0
+MOA-386,Sony Projector No Audio,2,True,0
+MSRB-123,SonyXBR,1,False,0
+MSRB-150,SonyXBR,1,False,0
+MSRB-202,Sony VPL,0,False,0
+MSRB-211,Sony VPL,2,True,0
+MSRB-241,Sony PHZ10,2,True,0
+MSRB-250,Sony Projector No Audio,2,True,1
+MSRB-302,Sony XBR No Audio,0,False,0
+MSRB-321,Sony Projector No Audio,2,True,1
+PPCH-144,SonyXBR,3,True,2
+RB-106,Sony Projector No Audio,2,True,0
+RB-1104,Sony PHZ10,2,True,2
+RB-1114,Sony Projector No Audio,2,True,1
+RB-1129,SonyXBR,2,True,0
+RB-1137N,SonyXBR,3,True,0
+RB-1137S,Sony VPL,2,True,0
+RB-124,Sony VPL,1,False,0
+RB-137A,Sony Projector No Audio,2,False,0
+RB-158,Sony XBR No Audio,3,True,0
+RB-160,Sony XBR No Audio,3,True,0
+RB-162,Sony XBR No Audio,3,True,0
+RB-166,SonyXBR,3,True,1
+RB-177,Sony Projector No Audio,2,True,1
+RB-202,Sony VPL,2,True,0
+RB-204,Sony VPL,2,True,0
+RB-206,Sony VPL,2,True,0
+RB-213B,SonyXBR,1,False,0
+RB-214,SonyXBR,2,False,0
+RB-2206E,Sony XBR No Audio,3,True,1
+RB-2206W,Sony Projector No Audio,2,True,1
+RB-227,Sony VPL,2,True,0
+RB-257,Sony VPL,2,True,0
+RB-267,Sony Projector No Audio,2,True,0
+RB-270,SonyXBR,3,True,0
+RB-271,Sony Projector No Audio,2,True,0
+RB-278,Sony XBR No Audio,3,True,0
+RB-281D,Sony XBR No Audio,3,True,0
+RB-283,SonyXBR,1,True,0
+RMB-104A,SonyXBR,3,True,0
+RMB-105XA,Sony PHZ10,1,False,0
+RMB-105XB,SonyXBR,1,False,0
+RMB-105XC,SonyXBR,2,False,0
+RMB-105XD,SonyXBR,2,False,0
+RMB-105XE,SonyXBR,1,False,0
+RMB-105XF,SonyXBR,2,False,0
+ROTC-241,Sony VPL,2,True,0
+ROTC-250,Sony VPL,2,True,0
+ROTC-261,Sony VPL,2,True,0
+SAB-351,Sony Projector No Audio,2,True,0
+SFH-106E,SonyXBR,1,False,0
+SFH-191,Sony PHZ10,2,True,1
+SFH-193,Sony PHZ10,2,True,0
+SFH-201,Sony Projector No Audio,2,True,0
+SFH-206E,Sony VPL,0,False,0
+SFH-249K,Sony PHZ10,2,True,1
+SFH-249L,Sony PHZ10,2,True,0
+SFH-249M,Sony PHZ10,2,True,0
+SFH-255,Sony PHZ10,2,True,0
+SFH-277,Sony VPL,2,True,0
+SFH-278XA,SonyXBR,3,True,1
+SFH-278XB,SonyXBR,3,True,0
+SFH-278XC,SonyXBR,3,True,1
+SFH-280,SonyXBR,1,False,0
+SFH-281,Sony VPL,2,True,0
+SFH-291,Sony Projector No Audio,2,True,0
+SFH-293B,Sony XBR No Audio,2,False,0
+SFH-36,Sony Projector No Audio,2,True,0
+SFH-37,Sony Projector No Audio,2,True,0
+SFH-6E,SonyXBR,3,True,0
+SLC-101,Sony Projector No Audio,2,True,1
+SLC-103,Sony VPL,2,True,0
+SLC-301,Sony VPL,2,True,1
+SLC-304,Sony VPL,2,True,0
+SLC-305,Sony VPL,2,True,2
+SLC-306,Sony VPL,2,True,0
+SLC-307,Sony VPL,2,True,2
+SLC-308,Sony VPL,2,True,0
+SLC-309,Sony VPL,2,True,1
+SLC-310,Sony VPL,2,True,0
+SLC-318,Sony VPL,2,True,0
+SLC-345,Sony VPL,2,True,0
+SLC-401,Sony VPL,2,True,1
+SLC-403,Sony VPL,2,True,0
+SLC-404,Sony VPL,2,True,0
+SLC-405,Sony VPL,2,True,0
+SLC-406,Sony VPL,2,True,1
+SLC-407,Sony VPL,2,True,1
+SLC-408,Sony VPL,2,True,0
+SLC-409,Sony VPL,2,True,0
+SLC-410,Sony VPL,2,True,1
+SLC-411,Sony Projector No Audio,2,False,0
+SLC-412,Sony VPL,2,True,0
+SLC-413,Sony VPL,2,True,1
+SLC-414,Sony VPL,2,True,1
+SLC-415,Sony VPL,2,True,1
+SLC-416,Sony VPL,2,True,1
+SLC-417,Sony VPL,2,True,0
+SLC-418,Sony VPL,2,True,0
+SLC-419,Sony VPL,2,True,1
+SNLB-122,Sony VPL,2,True,0
+SNLB-165,Sony VPL,0,False,0
+SNLB-170,Sony VPL,2,True,0
+SNLB-219,Sony VPL,2,False,0
+SNLB-224,Sony PHZ10,2,True,0
+SNLB-230R,Sony VPL,1,False,0
+SNLB-235A,Sony VPL,2,True,0
+SNLB-255,Sony PHZ10,2,True,1
+SNLB-290J,Sony VPL,2,True,0
+TLRA-101,SonyXBR,2,False,0
+TLRA-102,SonyXBR,2,False,0
+TLRA-103,SonyXBR,2,False,0
+TLRA-107,SonyXBR,2,False,0
+TLRA-110,SonyXBR,2,False,0
+TLRA-112,SonyXBR,2,False,0
+TLRB-124,SonyXBR,1,False,0
+TLRB-125,Sony VPL,2,True,0
+TLRB-172,SonyXBR,3,False,0
+TLRB-174,SonyXBR,2,False,0
+TLRB-176,SonyXBR,3,False,0
+TLRB-177,Sony Projector No Audio,2,True,0
+TLRB-227,Sony VPL,0,False,0
+TLRB-255,SonyXBR,1,False,0
+TLRB-279,SonyXBR,3,True,0
+TLRB-295,SonyXBR,3,True,0
+TMCB-104,Sony VPL,2,True,1
+TMCB-1057,SonyXBR,1,False,0
+TMCB-1060,SonyXBR,2,False,0
+TMCB-1066,SonyXBR,2,False,0
+TMCB-108,Sony VPL,2,True,1
+TMCB-1100,Fake Display,0,True,0
+TMCB-111,Sony VPL,2,True,0
+TMCB-1110,Sony Projector No Audio,2,True,1
+TMCB-112,Sony VPL,2,True,1
+TMCB-1130,Sony Projector No Audio,2,True,1
+TMCB-116,Sony VPL,2,True,1
+TMCB-1170,Sony Projector No Audio,2,True,2
+TMCB-120,Sony VPL,2,True,1
+TMCB-121,Sony VPL,2,True,1
+TMCB-134,Sony VPL,2,True,1
+TMCB-135,Sony VPL,2,True,1
+TMCB-136,Sony VPL,2,True,1
+TMCB-149,Sony PHZ10,1,False,0
+TMCB-154,Sony VPL,2,True,0
+TMCB-155A,Sony Projector No Audio,2,True,4
+TMCB-173,Sony Projector No Audio,2,True,0
+TMCB-186,Sony Projector No Audio,2,True,2
+TMCB-197,Sony XBR No Audio,3,True,0
+TMCB-203,Sony VPL,2,False,0
+TMCB-205,SonyXBR,2,False,0
+TMCB-206,SonyXBR,1,False,0
+TMCB-2202,SonyXBR,0,False,0
+TMCB-223,SonyXBR,1,False,0
+TMCB-223J,SonyXBR,1,False,0
+TMCB-225,Sony XBR No Audio,3,True,1
+TMCB-235,Sony VPL,1,False,0
+TMCB-244,Sony VPL,1,False,0
+TMCB-256,SonyXBR,2,False,0
+TMCB-258,SonyXBR,2,False,0
+TMCB-260,SonyXBR,2,False,0
+TMCB-265,SonyXBR,2,False,0
+TMCB-267,SonyXBR,2,False,0
+TMCB-294,Sony VPL,2,False,0
+TMCB-299,Sony PHZ10,2,True,0
+TMCB-301,Sony PHZ10,2,True,1
+TMCB-321XA,SonyXBR,1,False,0
+TMCB-321XB,SonyXBR,1,False,0
+TMCB-323XA,SonyXBR,1,False,0
+TMCB-323XB,SonyXBR,1,False,0
+TMCB-328,SonyXBR,1,False,0
+TMCB-3302,SonyXBR,1,False,0
+TMCB-335,SonyXBR,0,False,0
+TMCB-3350,SonyXBR,3,False,0
+TMCB-3760,Fake Display,0,True,0
+TMCB-U138,Sony Projector No Audio,2,True,0
+TMCB-U138A,SonyXBR,1,False,0
+TMCB-U154,SonyXBR,1,False,0
+TNRB-110,Sony Projector No Audio,2,True,2
+TNRB-120,Sony Projector No Audio,2,True,2
+TNRB-130,Sony Projector No Audio,2,True,2
+TNRB-151,Sony Projector No Audio,2,True,0
+TNRB-164,Sony VPL,2,True,0
+TNRB-170,Sony Projector No Audio,2,True,2
+TNRB-174,Sony Projector No Audio,2,True,2
+TNRB-180,Sony Projector No Audio,2,True,2
+TNRB-184,Sony Projector No Audio,2,True,1
+TNRB-210,Sony Projector No Audio,2,True,2
+TNRB-220,Sony Projector No Audio,2,True,2
+TNRB-230,Sony Projector No Audio,2,True,2
+TNRB-240,SonyXBR,3,True,0
+TNRB-251,Sony Projector No Audio,2,True,0
+TNRB-260,Sony Projector No Audio,2,True,2
+TNRB-264XA,SonyXBR,1,False,0
+TNRB-264XB,SonyXBR,2,False,0
+TNRB-264XC,SonyXBR,2,False,0
+TNRB-270,Sony Projector No Audio,2,True,2
+TNRB-280,Sony Projector No Audio,2,True,2
+TNRB-284,Sony Projector No Audio,2,True,2
+TNRB-290,SonyXBR,1,False,0
+TNRB-314,SonyXBR,3,False,0
+TNRB-316,SonyXBR,3,False,0
+TNRB-324,Sony PHZ10,2,True,0
+TNRB-332XA,SonyXBR,1,False,0
+TNRB-332XB,SonyXBR,1,False,0
+TNRB-360H,SonyXBR,1,False,0
+TNRB-374XA,Sony VPL,2,True,0
+TNRB-374XB,SonyXBR,2,False,0
+TNRB-374XC,SonyXBR,2,False,0
+TNRB-374XD,SonyXBR,2,False,0
+TNRB-374XE,SonyXBR,2,False,0
+TNRB-447,Sony Projector No Audio,2,True,0
+TNRB-484XA,Sony VPL,2,True,0
+TNRB-484XB,SonyXBR,2,False,0
+TNRB-484XC,SonyXBR,2,False,0
+TNRB-484XD,SonyXBR,2,False,0
+TNRB-484XE,SonyXBR,2,False,0
+TNRB-625,SonyXBR,2,False,0
+TNRB-674,SonyXBR,2,False,0
+TNRB-675,SonyXBR,2,False,0
+TNRB-710,Sony VPL,2,False,0
+TNRB-750,SonyXBR,3,True,3
+TNRB-775,SonyXBR,3,True,0
+TNRB-W108,Sony Projector No Audio,2,True,2
+TNRB-W110,Sony Projector No Audio,2,True,2
+TNRB-W118,Sony Projector No Audio,2,True,2
+TNRB-W122,Sony Projector No Audio,2,True,2
+TNRB-W139,Sony PHZ10,1,False,0
+TNRB-W208,Sony Projector No Audio,2,True,2
+TNRB-W210,Sony Projector No Audio,2,True,2
+TNRB-W237,Sony PHZ10,1,False,0
+TNRB-W240,Sony Projector No Audio,2,True,2
+TNRB-W241,Sony PHZ10,1,False,0
+TNRB-W242,Sony Projector No Audio,2,True,2
+TNRB-W308,Sony Projector No Audio,2,True,2
+TNRB-W310,Sony Projector No Audio,2,True,2
+TNRB-W328,Sony Projector No Audio,2,True,0
+TNRB-W357,SonyXBR,2,False,0
+TNRB-W408,Sony Projector No Audio,2,False,0
+TNRB-W459,Sony PHZ10,1,False,0
+TNRB-W461,Sony PHZ10,1,False,0
+UPB-269,Sony Projector No Audio,2,True,0
+UPC-177,SonyXBR,0,False,0
+UPC-201,Sony VPL,1,False,0
+UPC-203,Sony VPL,1,False,0
+UPC-205,Sony VPL,1,False,0
+UPC-211,Sony VPL,1,False,0
+UPC-229,Sony VPL,2,True,0
+UPC-244,Sony VPL,1,False,0
+UPC-250,Sony VPL,1,False,0
+UPC-263,Sony PHZ10,2,True,1
+UPC-264,Sony VPL,1,True,1
+UPC-271,Sony VPL,1,False,0
+UPC-273,Sony VPL,1,False,0
+UPC-275,Sony VPL,1,False,0
+UPC-313,Sony VPL,2,True,0
+UPC-348,Sony VPL,1,False,0
+USB-176,SonyXBR,1,False,0
+USB-292,SonyXBR,2,False,0
+WCAS-110,Sony PHZ10,1,False,0
+WCCB-1070,Sony PHZ10,1,False,0
+WCCB-1080,Sony PHZ10,2,True,2
+WCCB-1090,Sony PHZ10,2,True,2
+WCCB-1327,Sony PHZ10,1,False,0
+WCCB-2182,Sony PHZ10,2,True,0
+WCCB-2187,Sony PHZ10,1,False,0
+WCCB-2188,Sony PHZ10,2,True,0
+WCCB-2316,Sony PHZ10,2,True,2
+WCCB-2317,Sony PHZ10,2,True,2
+WCCB-2318,Sony PHZ10,2,True,2
+WCCB-2322,Sony PHZ10,1,False,0
+WCCB-2323,Sony PHZ10,2,True,2
+WCCB-2325,Sony PHZ10,2,True,2
+WCCB-2327,Sony Projector No Audio,2,True,2
+WCCB-2333,Sony PHZ10,1,False,0
+WCCB-2343,Sony PHZ10,1,False,0
+WCCB-2350,Sony PHZ10,2,True,2
+WCCB-2351,Sony PHZ10,1,False,0
+WCO-103,SonyXBR,1,False,0
+WCO-155,SonyXBR,1,False,0
+WCO-164,SonyXBR,1,False,0
+WSC-1081,SonyXBR,3,False,0
+WSC-1140,SonyXBR,1,False,0
+WSC-1142,SonyXBR,1,False,0
+WSC-1144,SonyXBR,1,False,0
+WSC-1160,SonyXBR,1,False,0
+WSC-1169,Sony XBR No Audio,3,True,0
+WSC-1503A,SonyXBR,1,False,0
+WSC-1510,Sony PHZ10,2,True,0
+WSC-2010XA,Sony VPL,1,False,0
+WSC-2010XB,Sony XBR No Audio,3,True,2
+WSC-2020,SonyXBR,2,False,0
+WSC-2034,pjlink-projector,2,True,0
+WSC-2050,Fake Display,0,True,0
+WSC-2400XA,SonyXBR,1,False,0
+WSC-2400XB,SonyXBR,1,False,0
+WSC-2420,Sony XBR No Audio,3,True,1
+WSC-3211,Sony Projector No Audio,2,True,1
+WSC-3220,Sony Projector No Audio,2,True,0
+WSC-3222,Sony Projector No Audio,2,True,0
+WSC-3223,Sony Projector No Audio,2,True,0
+WSC-3224,Sony Projector No Audio,2,True,0
+WSC-3228,Sony Projector No Audio,2,True,1
+WSC-3250,Sony VPL,2,True,1
+WSC-3252,Sony VPL,2,True,1
+WSC-3260,Sony VPL,1,False,0
+WSC-3280,Sony PHZ10,2,True,0
+WSC-3290,Sony PHZ10,2,True,0
+WSC-3302,SonyXBR,1,False,0
+WSC-3380,Sony Projector No Audio,2,True,0
+WSC-3530,SonyXBR,1,False,0
+WSC-3988,SonyXBR,0,False,0
+WSC-5519,Sony Projector No Audio,2,True,0
+WSC-5528,Sony XBR No Audio,3,True,0
+WVB-1102,SonyXBR,0,False,0
+WVB-1128,SonyXBR,1,False,0
+WVB-1131,Sony PHZ10,1,False,0
+WVB-1133,Sony PHZ10,2,True,1
+WVB-1140,Sony PHZ10,1,False,0
+WVB-1144,Sony PHZ10,2,True,1
+WVB-1146XA,SonyXBR,2,False,0
+WVB-1146XB,SonyXBR,2,False,0
+WVB-1146XC,SonyXBR,2,False,0
+WVB-1155,Sony Projector No Audio,2,False,0
+WVB-1159,Sony PHZ10,2,True,0
+WVB-1161,Sony Projector No Audio,2,True,2
+WVB-1162XA,SonyXBR,2,False,0
+WVB-1162XB,SonyXBR,2,False,0
+WVB-1162XC,SonyXBR,2,False,0
+WVB-1162XD,SonyXBR,2,False,0
+WVB-1162XE,SonyXBR,2,False,0
+WVB-1162XF,SonyXBR,2,False,0
+WVB-1164XA,SonyXBR,2,False,0
+WVB-1164XB,SonyXBR,2,False,0
+WVB-1164XC,SonyXBR,2,False,0
+WVB-1164XD,SonyXBR,2,False,0
+WVB-1164XE,SonyXBR,2,False,0
+WVB-1164XF,SonyXBR,2,False,0
+WVB-1166,Sony PHZ10,2,True,1
+WVB-2115,SonyXBR,2,False,0
+WVB-2116,SonyXBR,2,False,0
+WVB-2123,SonyXBR,2,False,0
+WVB-2126,SonyXBR,2,False,0
+WVB-2145,Sony PHZ10,2,True,2
+WVB-2160,SonyXBR,2,False,0
+WVB-2174,SonyXBR,0,False,0
+WVB-2183,SonyXBR,2,False,0
+WVB-2187,SonyXBR,2,False,0
+WVB-2194,SonyXBR,2,False,0
