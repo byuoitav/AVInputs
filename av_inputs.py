@@ -72,23 +72,23 @@ for device in d1_devices:
     
     # check if room has a switcher and get available ports
     has_sw1 = False
-    sw1_ports = 0
     sw1_name = room_name + '-SW1'
     
     if sw1_name in video_switchers:
         has_sw1 = True
-        available_sw1_ports = len(video_switchers[sw1_name]['ports'])
-        sw1_ports = len(video_switchers[sw1_name]['ports'])
+        available_sw1_ports = 0
         for port in video_switchers[sw1_name]['ports']:
-            # check if port has a source and destination device
-            if 'source_device' in port and 'destination_device' in port:
-                continue
+            # if port is input, add to available ports
+            if "IN" in port['_id']:
+                if 'source_device' in port and 'destination_device' in port:
+                    continue
+                else:
+                    available_sw1_ports += 1
             else:
-                sw1_ports -= 1
-        sw1_ports = available_sw1_ports - sw1_ports
+                continue
 
 
-    csv_writer.writerow([room_name, device_type, device_ports, has_sw1, sw1_ports])
+    csv_writer.writerow([room_name, device_type, device_ports, has_sw1, available_sw1_ports])
 print('Done!')
 
 csv_file.close()
