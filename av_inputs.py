@@ -55,20 +55,16 @@ print('Getting device type, switcher, and available ports ...')
 for device in d1_devices:
     room_name = device['id'][:-3]
     device_type = device['doc']['type']['_id']
-    device_ports = 0
-    available_ports = len(device_types[device_type]['ports'])
+    available_ports = 0
     
     if 'ports' in device['doc']:
-        device_ports = len(device['doc']['ports'])
         for port in device['doc']['ports']:
-            # check if port has a source and destination device
-            if 'source_device' in port and 'destination_device' in port:
-                continue
-            else:
-                device_ports -= 1
-        device_ports = available_ports - device_ports        
-    else:
-        device_ports = available_ports
+            # if port is hdmi, displayport, hdbaset add to available ports
+            if "hdmi" in port['_id'].lower() or "DP" in port['_id'].lower() or "hdbaset" in port['_id'].lower():
+                if 'source_device' in port and 'destination_device' in port:
+                    continue
+                else:
+                    available_ports += 1
     
     # check if room has a switcher and get available ports
     has_sw1 = False
@@ -88,7 +84,7 @@ for device in d1_devices:
                 continue
 
 
-    csv_writer.writerow([room_name, device_type, device_ports, has_sw1, available_sw1_ports])
+    csv_writer.writerow([room_name, device_type, available_ports, has_sw1, available_sw1_ports])
 print('Done!')
 
 csv_file.close()
