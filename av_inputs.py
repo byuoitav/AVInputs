@@ -48,7 +48,7 @@ device_types = {device_type['id']: device_type['doc'] for device_type in device_
 print('Creating csv file...')
 csv_file = open('av_inputs.csv', 'w', newline='')
 csv_writer = csv.writer(csv_file)
-csv_writer.writerow(['Room Name', 'D1 Device', 'Available Ports in D1', 'Has SW1', 'Available Ports in SW1'])
+csv_writer.writerow(['Room Name', 'D1 Device', 'Available Ports in D1', 'Has SW1','SW1 Type', 'Available Ports in SW1'])
 
 # get device type and number and available ports
 print('Getting device type, switcher, and available ports ...')
@@ -79,7 +79,9 @@ for device in d1_devices:
     has_sw1 = False
     sw1_name = room_name + '-SW1'
     available_sw1_ports = 0
+    sw1_type = ''
     if sw1_name in video_switchers:
+        sw1_type = video_switchers[sw1_name]['type']['_id']
         has_sw1 = True
         for port in video_switchers[sw1_name]['ports']:
             # if port is input, add to available ports
@@ -92,7 +94,7 @@ for device in d1_devices:
                 continue
 
 
-    csv_writer.writerow([room_name, device_type, available_ports, has_sw1, available_sw1_ports])
+    csv_writer.writerow([room_name, device_type, available_ports, has_sw1, sw1_type, available_sw1_ports])
 print('Done!')
 
 csv_file.close()
