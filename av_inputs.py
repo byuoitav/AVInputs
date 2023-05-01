@@ -55,16 +55,25 @@ print('Getting device type, switcher, and available ports ...')
 for device in d1_devices:
     room_name = device['id'][:-3]
     device_type = device['doc']['type']['_id']
+    device_ports = device_types[device_type]['ports']
     available_ports = 0
+
+    for port in device_ports:
+        # if port is hdmi, displayport, hdbaset add to available ports
+        if "hdmi" in port['_id'].lower() or "DP" in port['_id'].lower() or "hdbaset" in port['_id'].lower():
+           available_ports += 1
+        else:
+            continue
     
     if 'ports' in device['doc']:
         for port in device['doc']['ports']:
             # if port is hdmi, displayport, hdbaset add to available ports
             if "hdmi" in port['_id'].lower() or "DP" in port['_id'].lower() or "hdbaset" in port['_id'].lower():
                 if 'source_device' in port and 'destination_device' in port:
-                    continue
+                    available_ports -= 1
                 else:
-                    available_ports += 1
+                    continue
+    
     
     # check if room has a switcher and get available ports
     has_sw1 = False
