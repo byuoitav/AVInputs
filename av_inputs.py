@@ -69,10 +69,9 @@ for device in d1_devices:
     # check if room has a switcher and get available ports
     has_sw1 = False
     sw1_name = room_name + '-SW1'
-    
+    available_sw1_ports = 0
     if sw1_name in video_switchers:
         has_sw1 = True
-        available_sw1_ports = 0
         for port in video_switchers[sw1_name]['ports']:
             # if port is input, add to available ports
             if "IN" in port['_id']:
